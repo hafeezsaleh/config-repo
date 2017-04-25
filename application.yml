@@ -7,7 +7,7 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
       
 foo: baz
-
+description : This is test Server for ASC
 ---
 spring:
   profiles: cloud
