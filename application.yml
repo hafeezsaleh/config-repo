@@ -6,7 +6,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
       
-foo: baz
+foo: bazzzzzzzzzzzz
 description : This is test Server for ASC
 ---
 spring:
